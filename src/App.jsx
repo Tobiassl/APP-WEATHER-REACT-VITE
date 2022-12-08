@@ -81,7 +81,7 @@ useEffect(() =>{
               <div class="arrow-top"></div>
               <div class="arrow-bottom"></div>
             </div>
-
+          
               <h3>Temperatura Actual: {data.main.temp}°C </h3>
               <h3>Sensacion Termica: {data.main.feels_like} °C</h3>
               <h3>Humedad: {data.main.humidity} %</h3>
