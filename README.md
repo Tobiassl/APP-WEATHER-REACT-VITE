@@ -14,7 +14,9 @@ API utilizada: https://openweathermap.org/current
 ## 🔗 Link App:
 [[Abrir App weather]](https://tobiassl.github.io/APP-WEATHER-REACT-VITE/)
 
-## Instrucciones:
+## IMPORTANTE:
+
+### Si al buscar nuevamente otro pais o ciudad y los datos meteorologicos no se actualizan, recargue la pagina.
 
 ### Inicio:
 
@@ -33,10 +35,6 @@ API utilizada: https://openweathermap.org/current
 
 [![Desktop-Screenshot-2022-12-08-18-42-51-35.png](https://i.postimg.cc/bw9rPMFN/Desktop-Screenshot-2022-12-08-18-42-51-35.png)](https://postimg.cc/WdtT69vQ)
 
-
-## IMPORTANTE:
-
-### Si al buscar nuevamente otro pais o ciudad y los datos meteorologicos no se actualizan, recargue la pagina.
 
 
 
