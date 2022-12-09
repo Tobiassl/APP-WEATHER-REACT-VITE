@@ -24,7 +24,6 @@ API utilizada: https://openweathermap.org/current
 
 [![Desktop-Screenshot-2022-12-08-18-40-31-40.png](https://i.postimg.cc/SRnkz1r8/Desktop-Screenshot-2022-12-08-18-40-31-40.png)](https://postimg.cc/2LNPswg8)
 
-
 ### La api nos dara sus datos meteorologicos actualizados:
 
 [![Desktop-Screenshot-2022-12-08-18-41-00-46.png](https://i.postimg.cc/rw1cWrSh/Desktop-Screenshot-2022-12-08-18-41-00-46.png)](https://postimg.cc/G4mZn9gY)
