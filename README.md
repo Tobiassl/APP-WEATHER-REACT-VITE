@@ -19,7 +19,7 @@ API utilizada: https://openweathermap.org/current
 
 ## IMPORTANTE:
 
-### Si al buscar nuevamente otro pais y los datos no se actualizan, simplemente recarge la pagina. 
+### Si al buscar nuevamente otro pais o ciudad y los datos meteorologicos no se actualizan, recargue la pagina.
 
 
 
