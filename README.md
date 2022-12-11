@@ -18,6 +18,10 @@ API utilizada: https://openweathermap.org/current
 
 ### Si al buscar nuevamente otro pais o ciudad y los datos meteorologicos no se actualizan, recargue la pagina.
 
+## ACTUALIZACION:
+
+### Se agrego una descripcion del clima mas especifica con un icono segun el estado climatico de la zona geografica.
+
 ### Inicio:
 
 [![Desktop-Screenshot-2022-12-08-18-40-05-41.png](https://i.postimg.cc/5tX3Twng/Desktop-Screenshot-2022-12-08-18-40-05-41.png)](https://postimg.cc/TyXgWW85)
