@@ -5,7 +5,7 @@ import axios from 'axios'
 
 function App() {
   const [data,setData] = useState(null);
-  const [CityName,setCityName] = useState([]);
+  const [CityName,setCityName] = useState('');
   const [Cargando,setCargando] = useState(false);
 
 
@@ -22,6 +22,7 @@ function App() {
   })
 .catch((error) => {
    alert("pais o ciudad no encontrada")
+   console.log(error)
    setCargando(false)
 })
 
@@ -75,7 +76,7 @@ useEffect(() =>{
           
           { data ? (
             
-
+          <>
             <div className='clima'>
               
               <h3>Temperatura Actual: {data.main.temp}°C </h3>
@@ -83,9 +84,17 @@ useEffect(() =>{
               <h3>Humedad: {data.main.humidity} %</h3>
               <h3>Viento: {data.wind.speed} m/s</h3>
               <h3>Nubosidad: {data.clouds.all} %</h3>
+              <h3>Descripcion: {data.weather[0].description}</h3>
+
+              <div className='icon'>
+                <img src={`http://openweathermap.org/img/w/${data.weather[0].icon}.png`}></img>
               </div>
+              </div>
+              
+              </>
           ):(
-           <><p className='by'>Creado Por <a className='by' href="https://github.com/Tobiassl" target='_blank'>Tobias Potel</a></p></>
+           <>
+           <p className='by'>Creado Por <a className='by' href="https://github.com/Tobiassl" target='_blank'>Tobias Potel</a></p></>
           )}
 
         </div>
