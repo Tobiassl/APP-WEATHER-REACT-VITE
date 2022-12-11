@@ -18,7 +18,7 @@ API utilizada: https://openweathermap.org/current
 
 ### Si al buscar nuevamente otro pais o ciudad y los datos meteorologicos no se actualizan, recargue la pagina.
 
-## ACTUALIZACION:
+## ACTUALIZACION (11/12/22):
 
 ### Se agrego una descripcion del clima mas especifica con un icono segun el estado climatico de la zona geografica.
 
