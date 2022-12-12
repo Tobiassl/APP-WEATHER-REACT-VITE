@@ -1,5 +1,5 @@
 
-# APP WEATHER VITE
+# APP WEATHER VITE  (NPM CREATE VITE@LATEST)
 
 API utilizada: https://openweathermap.org/current
 
